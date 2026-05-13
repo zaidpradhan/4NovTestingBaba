@@ -28,7 +28,7 @@ public class Testclass {
 	//	WebDriverManager.edgedriver().setup();  // only single this line handle the browser control with the help og webdrivermanager dependency
 		WebDriver driver= new EdgeDriver();
 		
-	//	driver.get("https://testingbaba.com/old/");
-		driver.get("https://google.com/");
+		driver.get("https://testingbaba.com/old/");
+	//	driver.get("https://google.com/");
 	}
 }
